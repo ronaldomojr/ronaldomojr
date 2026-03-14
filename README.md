@@ -10,8 +10,6 @@ BSc in Information Systems (in progress) – UniFOA, Brazil <br>
 
 n8n 2.0 Automation Training – 2026 (Udemy) <br>
 
-
-
 ---
 
 ## 🤖 AI Automation
@@ -36,6 +34,13 @@ Experience creating **automated workflows**, connecting APIs and building **AI a
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)&nbsp;
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)&nbsp;
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)&nbsp;
+
+---
+
+## 🔗 Data & APIs
+![JSON](https://img.shields.io/badge/JSON-Data%20Format-000000?style=for-the-badge&logo=json&logoColor=white)
+
+Experience working with **JSON data structures**, **API integrations**, and **data manipulation** in automation workflows and web applications.
 
 ---
 
@@ -65,6 +70,7 @@ Experience creating **automated workflows**, connecting APIs and building **AI a
 - **Automation workflows with n8n**
 - **Backend fundamentals** with Node.js, MongoDB, and PostgreSQL
 - Programming with **Python**
+- Working with **JSON and APIs**
 
 ---
 
