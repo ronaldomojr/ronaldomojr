@@ -27,7 +27,7 @@ Experience designing and implementing **AI-powered automation workflows**, inclu
 ## 🚀 Projects
 
 ### 🏛 Public Technology Project
-**Collaboration on a technology initiative with** :contentReference[oaicite:0]{index=0}.
+**Collaboration on a technology initiative with Julia Lucy.**
 
 Participation in a project focused on **digital solutions and technology initiatives for public services**, contributing to development discussions, automation ideas, and system integration concepts.
 
