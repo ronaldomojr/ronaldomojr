@@ -24,6 +24,40 @@ Experience designing and implementing **AI-powered automation workflows**, inclu
 
 ---
 
+## 🚀 Projects
+
+### 🏛 Public Technology Project
+**Collaboration on a technology initiative with** :contentReference[oaicite:0]{index=0}.
+
+Participation in a project focused on **digital solutions and technology initiatives for public services**, contributing to development discussions, automation ideas, and system integration concepts.
+
+Technologies involved:
+- API integrations
+- automation workflows
+- web technologies
+
+---
+
+### 🏥 UltraMed Clinic API
+
+Development participation in an **API system for the UltraMed clinic**, focused on supporting digital services and system integrations.
+
+Main goals:
+
+- API development for clinical systems
+- data exchange between services
+- automation of internal processes
+- structured data handling using **JSON**
+
+Technologies used:
+
+- JavaScript
+- REST APIs
+- JSON
+- backend integration concepts
+
+---
+
 ## 🔗 APIs, Data & Integrations
 
 ![JSON](https://img.shields.io/badge/JSON-Data%20Format-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -60,12 +94,6 @@ Used to create **interfaces, dashboards, and integrations** that interact with a
 
 ---
 
-## 🧠 Programming Languages
-
-![Fortran](https://img.shields.io/badge/Fortran-Programming-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-
----
-
 ## 🛠 Tools & Technologies
 
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)&nbsp;
@@ -89,16 +117,6 @@ Udemy
 
 ![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
 ![en](https://img.shields.io/badge/B1-ENGLISH-2ea44f?style=for-the-badge)
-
----
-
-## 🚀 Currently Learning & Practicing
-
-- **AI workflow automation**
-- **AI agents and LLM integrations**
-- **Automation pipelines with n8n**
-- Backend development with **Node.js and Python**
-- **API integrations and system automation**
 
 ---
 
