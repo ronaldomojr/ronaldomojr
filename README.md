@@ -138,6 +138,7 @@ Udemy
 
 ![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;  
 ![en](https://img.shields.io/badge/B1-ENGLISH-2ea44f?style=for-the-badge)
+![es](https://img.shields.io/badge/B2-SPANISH-ff5733?style=for-the-badge)
 
 ---
 
