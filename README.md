@@ -24,38 +24,61 @@ Experience designing and implementing **AI-powered automation workflows**, inclu
 
 ---
 
-## 🚀 Projects
+## 💼 Professional Experience
 
-### 🏛 Public Technology Project  
-**Collaboration on a technology initiative with Julia Lucy**
+### **IVB EdTech – AI Automation Developer**
 
-Participation in a project focused on **digital solutions and technology initiatives for public services**, contributing to development discussions, automation ideas, and system integration concepts.
+Worked on the design and implementation of **automation systems, APIs, and intelligent workflows**, contributing to real-world projects involving public services and healthcare systems.
 
-Technologies involved:
+#### Key responsibilities:
 
-- API integrations  
-- automation workflows  
-- web technologies  
+- Development of automation pipelines using **n8n**  
+- Integration of APIs and external services  
+- Design of system architectures for automation workflows  
+- Implementation of AI-driven processes  
+- Data handling and transformation using **JSON**  
+- Deployment and management of automation systems in VPS environments  
 
 ---
 
-### 🏥 UltraMed Clinic API
+### 🚀 Projects (IVB EdTech)
 
-Development participation in an **API system for the UltraMed clinic**, focused on supporting digital services and system integrations.
+#### 🏥 UltraMed Clinic API
 
-Main goals:
+Participation in the development of an **API system for a clinical environment**, focused on digital transformation and system integration.
+
+Main contributions:
 
 - API development for clinical systems  
-- data exchange between services  
-- automation of internal processes  
-- structured data handling using **JSON**  
+- Data exchange between services  
+- Automation of internal workflows  
+- Structured data handling using JSON  
 
 Technologies used:
 
 - JavaScript  
 - REST APIs  
 - JSON  
-- backend integration concepts  
+- Backend integration concepts  
+
+---
+
+#### 🏛 Public Technology Project (Julia Lucy)
+
+Contribution to a **technology initiative for public services**, focused on digital solutions and system modernization.
+
+Main contributions:
+
+- Automation workflow design  
+- API integrations  
+- Participation in system architecture discussions  
+- Development of integration concepts for public platforms  
+
+Technologies involved:
+
+- API integrations  
+- Automation workflows  
+- Web technologies  
 
 ---
 
