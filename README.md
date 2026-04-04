@@ -43,42 +43,119 @@ Worked on the design and implementation of **automation systems, APIs, and intel
 
 ### 🚀 Projects (IVB EdTech)
 
-#### 🏥 UltraMed Clinic API
+#### 🤖 Mamutus AI Automation Bots
 
-Participation in the development of an **API system for a clinical environment**, focused on digital transformation and system integration.
+Development of **AI-powered automation bots for workflow management and demand capture**, integrating messaging platforms with task management systems.
 
-Main contributions:
-
-- API development for clinical systems  
-- Data exchange between services  
-- Automation of internal workflows  
-- Structured data handling using JSON  
-
-Technologies used:
-
-- JavaScript  
-- REST APIs  
-- JSON  
-- Backend integration concepts  
+Designed and implemented **3 production-ready prototypes**, focused on reducing manual workload, improving demand organization, and enabling scalable client communication.
 
 ---
 
-#### 🏛 Public Technology Project (Julia Lucy)
+### 🔹 WhatsApp → Trello Automation Bot
 
-Contribution to a **technology initiative for public services**, focused on digital solutions and system modernization.
+Bot responsible for **capturing client demands via WhatsApp and automatically creating structured tasks in Trello**.
 
-Main contributions:
+**Features:**
+- Captures and interprets client messages  
+- Extracts structured data from conversations  
+- Automatically generates Trello cards (title + description)  
+- Standardizes demand input  
 
-- Automation workflow design  
-- API integrations  
-- Participation in system architecture discussions  
-- Development of integration concepts for public platforms  
+**Impact:**
+- Reduced manual task creation  
+- Improved organization of client requests  
+- Faster response and execution workflow  
 
-Technologies involved:
+**Technologies:**
+- n8n  
+- WhatsApp API (Evolution / Meta)  
+- Trello API  
+- JSON processing  
+- PostgreSQL (data persistence)  
+- Redis (temporary state & caching)  
 
-- API integrations  
-- Automation workflows  
-- Web technologies  
+---
+
+### 🔹 Group Automation Bot with Activation Control
+
+Bot designed to operate inside **WhatsApp groups**, with execution controlled via commands.
+
+**Features:**
+- Activation via `/ativar` or `/activate`  
+- Deactivation via `/desativar` or `/deactivate`  
+- Captures messages only when active  
+- Filters relevant demands from conversations  
+- Sends structured data to Trello  
+
+**Highlights:**
+- Stateful workflow logic using Redis  
+- Command-based execution control  
+- Noise reduction in group environments  
+
+---
+
+### 🔹 Context-Aware Client Bot (Multi-Group Intelligence)
+
+Advanced bot capable of **understanding context based on group and client**, enabling scalable multi-client automation.
+
+**Features:**
+- Identifies group and client context automatically  
+- Adapts to different demand types per group  
+- Works with both **private WhatsApp messages** and **group conversations**  
+- Activation and deactivation control (`/ativar`, `/activate`, `/desativar`, `/deactivate`)  
+- Sends structured outputs to Trello  
+
+**Highlights:**
+- Context-aware automation  
+- Multi-tenant architecture  
+- Scalable workflow design  
+- Persistent client configuration using PostgreSQL  
+
+---
+
+### 🧠 Architecture & Technical Approach
+
+- Event-driven workflows using **webhooks (n8n)**  
+- Automation orchestration with **n8n pipelines**  
+- Message parsing and structuring using **JSON**  
+- Integration layer between:
+  - WhatsApp APIs  
+  - Trello API  
+
+---
+
+### 🗄 Data Layer
+
+**PostgreSQL:**
+- Persistent storage of clients, groups, and configurations  
+- Logging of processed demands  
+- Structured relational data management  
+
+**Redis:**
+- Temporary state management (bot active/inactive)  
+- Low-latency command handling (`/ativar`, `/activate`, `/desativar`, `/deactivate`)  
+- Caching of recent interactions  
+
+---
+
+## ☁️ Infrastructure & Deployment
+
+Experience configuring and managing **cloud environments and VPS servers**, including:
+
+- **AWS VPS (EC2)** setup and management  
+- **Hostinger VPS** deployment and maintenance  
+- **Ubuntu Server** configuration  
+- **Docker** containerization  
+- **Docker Compose** orchestration  
+- **EasyPanel** for containerized app management  
+- Reverse proxy and service exposure  
+- Deployment of automation workflows and APIs in production environments  
+
+**Containerized Services:**
+- n8n (workflow engine)  
+- PostgreSQL (database)  
+- Redis (cache/state)  
+- API services (integration layer)  
 
 ---
 
@@ -100,19 +177,6 @@ Experience working with:
 - **Evolution API**  
 - **UAZAPI / UZAPI**  
 - Automation of conversational flows and chatbot integrations  
-
----
-
-## ☁️ Infrastructure & Deployment
-
-Experience configuring and managing **cloud environments and VPS servers**, including:
-
-- **AWS VPS (EC2)** setup and management  
-- **Hostinger VPS** deployment and maintenance  
-- **Ubuntu Server** configuration  
-- **EasyPanel** for containerized app management  
-- Reverse proxy and service exposure  
-- Deployment of automation workflows and APIs in production environments  
 
 ---
 
